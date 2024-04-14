@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul8_1302220098", "tpmodul8_1302220098\tpmodul8_1302220098.csproj", "{1FD9FE56-DE54-418F-A43F-4CC0C98704E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F0F9575-A8D8-4851-BEE8-5DD83A5A3F11}"
+	ProjectSection(SolutionItems) = preProject
+		covid_config.json = covid_config.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD9FE56-DE54-418F-A43F-4CC0C98704E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD9FE56-DE54-418F-A43F-4CC0C98704E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD9FE56-DE54-418F-A43F-4CC0C98704E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD9FE56-DE54-418F-A43F-4CC0C98704E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7E8007-AC76-43E9-9F68-DE96AD1045EE}
+	EndGlobalSection
+EndGlobal
